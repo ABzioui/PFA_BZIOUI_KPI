@@ -1,4 +1,4 @@
-# " TaskTrack Pro ( " 
+# " TaskTrack Pro App" 
 
 
 ``` Description de votre projet
@@ -65,14 +65,14 @@ npm install
 
 ```
 
-Puis pour lancer l'applica(ion coté front lancez la commande : 
+Puis pour lancer l'application coté front lancez la commande : 
 
 ```sh
-npm start
+npm run start
 
 ```
 
-Par la suite passez sur le port 3001 sur le Browser.
+Par la suite passez sur le port 3000 sur le Browser.
 
 
 
