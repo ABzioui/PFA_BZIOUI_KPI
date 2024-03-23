@@ -2,7 +2,9 @@
 
 
 ``` Description de votre projet
-L'objectif principal du projet est de développer une application web permettant d'afficher et de suivre les indicateurs clés de performance (KPI) concernant la charge de travail au sein de l'équipe. Cette application facilitera la gestion du temps et des ressources en aidant à identifier les goulots d'étranglement, à équilibrer les charges de travail et à améliorer la productivité.
+L'objectif principal du projet est de développer une application web permettant d'afficher et de suivre les indicateurs clés de performance (KPI) concernant la charge de travail au sein de l'équipe.
+Cette application facilitera la gestion du temps et des ressources en aidant à identifier les goulots d'étranglement,
+à équilibrer les charges de travail et à améliorer la productivité.
 
 Lien_projet ou je peux voir le kanban,roadmap et taches """ Je sais pas comment !!!!!""""
 
