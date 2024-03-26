@@ -6,7 +6,7 @@ L'objectif principal du projet est de développer une application web permettant
 Cette application facilitera la gestion du temps et des ressources en aidant à identifier les goulots d'étranglement,
 à équilibrer les charges de travail et à améliorer la productivité.
 
-Lien_projet ou je peux voir le kanban,roadmap et taches """ Je sais pas comment !!!!!""""
+Lien_projet ou je peux voir le kanban,roadmap et taches """ https://github.com/users/ABzioui/projects/1""""
 
 ```
 
